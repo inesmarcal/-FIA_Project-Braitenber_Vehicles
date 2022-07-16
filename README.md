@@ -35,3 +35,5 @@ You have one way to run this project:
 
 ## Authors:
 - [Inês Marçal](https://github.com/inesmarcal)
+- [Noémia Gonçalves](https://github.com/nowaymia)
+- [Amanda Menezes]
