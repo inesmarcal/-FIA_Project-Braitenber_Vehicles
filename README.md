@@ -16,7 +16,7 @@ Consists in develop a reactive agent that shows different behaviors(aggressivene
 You have one way to run this project:
 1. Unity:
     * Download the folder "#unity_folder"
-    * There will be a zip called *TP1.zip*, extract the files
+    * There will be two zip, one called "TP1_Part1" and another called "TP1_Part2", extract the files and merge them
     * Open the Unity and choose to open a folder, select the folder where you have the files<br>
         ![image](https://i.imgur.com/M3sNLs3.png)
         <br>
