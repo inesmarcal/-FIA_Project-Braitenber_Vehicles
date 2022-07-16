@@ -23,10 +23,8 @@ You have one way to run this project:
     * Choose the scene that you want to see<br>
         ![image](https://i.imgur.com/7tNZpot.png)
         <br>
-        
         - You have available the scene policial in folder "Policial_Lover_Discover", the scene playground in folder "playground", inside of th folder "Meta2" are available more scenes (circle, elipse and infinite)
         - In folder "TestingScenes" there is another scene (flower)
-        - 
         <br><br>
     * Finally just run the project
         ![image](https://i.imgur.com/9NuKoTq.png)
